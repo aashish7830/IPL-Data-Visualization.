@@ -1,2 +1,18 @@
-# IPL-Data-Visualization.
-Data visualization and analysis of IPL dataset using Python (Pandas, Matplotlib, Seaborn, Plotly).  IPL Data Analysis | Exploratory Data Analysis (EDA) with Python | Cricket Insights  Visualizing IPL cricket statistics - top players, bowling figures, match awards, and more.
+# 🏏 IPL Data Visualization Project
+
+## 📌 Overview
+This project analyzes the Indian Premier League (IPL) dataset using Python and provides visual insights such as:
+- Players with most "Player of the Match" awards
+- Top 10 Best Bowling Figures
+- Batting and Bowling performance trends
+- Other key insights
+
+## 🛠 Tools & Libraries
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+
+## 📂 Project Structure
+
